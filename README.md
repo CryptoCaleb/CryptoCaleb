@@ -3,16 +3,6 @@
 
 <div align="center">
 
-```
- ██████╗ █████╗ ██╗     ███████╗██████╗
-██╔════╝██╔══██╗██║     ██╔════╝██╔══██╗
-██║     ███████║██║     █████╗  ██████╔╝
-██║     ██╔══██║██║     ██╔══╝  ██╔══██╗
-╚██████╗██║  ██║███████╗███████╗██████╔╝
- ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
-  ·  ·  web  ·  mobile  ·  web3  ·  retro  ·  ·
-```
-
 <a href="https://github.com/CryptoCaleb">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=620&lines=%3E+Building+cool+stuff+%E2%9C%A8;%3E+Web+%E2%80%A2+Mobile+%E2%80%A2+Desktop+%E2%80%A2+Web3;%3E+Secure+by+default+%F0%9F%94%90;%3E+Pixel-perfect+or+it+didn't+ship;%3E+Retro+handheld+tinkerer+%F0%9F%8E%AE" alt="typing intro" />
 </a>
