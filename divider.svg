@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="16" viewBox="0 0 800 16">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#ff4d8d" stop-opacity="0"/>
+    </linearGradient>
+    <style>.d{animation:m 3s linear infinite}@keyframes m{from{transform:translateX(-60px)}to{transform:translateX(860px)}}</style>
+  </defs>
+  <rect x="0" y="7" width="800" height="2" fill="url(#g)"/>
+  <g class="d"><rect x="0" y="4" width="8" height="8" fill="#8bf5a8"/><rect x="14" y="6" width="4" height="4" fill="#8bf5a8" opacity=".6"/><rect x="24" y="7" width="2" height="2" fill="#8bf5a8" opacity=".3"/></g>
+</svg>
