@@ -111,7 +111,13 @@ const caleb = {
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3>🔋 &nbsp;Battery Monitor</h3>
+      <p>A muOS app for retro handhelds that tracks your battery: drain and recharge rates, charge times, estimated time left, plus graphs and analytics for checking battery health.</p>
+      <img src="https://img.shields.io/badge/muOS-retro-a78bfa?style=flat-square&labelColor=0f0c29" />
+      <img src="https://img.shields.io/badge/status-new-8bf5a8?style=flat-square&labelColor=0f0c29" />
+    </td>
+    <td width="50%" valign="top">
       <h3>⚙️ &nbsp;<a href="https://github.com/CryptoCaleb/rpcpp-moded">rpcpp-moded</a></h3>
       <p>My modified fork of RPCPP.</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
