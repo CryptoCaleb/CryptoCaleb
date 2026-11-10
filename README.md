@@ -96,8 +96,10 @@ const caleb = {
     </td>
     <td width="50%" valign="top">
       <h3>🫧 &nbsp;bubl</h3>
-      <p>My current main project, in active development. Stay tuned.</p>
+      <p>My current main project, in active development: a world map where every post is a Bubl. Search a topic and only the matching Bubls light up. Stay tuned.</p>
       <img src="https://img.shields.io/badge/status-in%20progress-ff4d8d?style=flat-square&labelColor=0f0c29" />
+      <br/><br/>
+      <img width="100%" src="./assets/bubl-preview.jpg" alt="Bubl: a world map where every post is a Bubl" />
     </td>
   </tr>
   <tr>
