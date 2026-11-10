@@ -91,6 +91,8 @@ const caleb = {
       <p>A muOS app for retro handhelds that tracks your battery: drain and recharge rates, charge times, estimated time left, plus graphs and analytics for checking battery health.</p>
       <img src="https://img.shields.io/badge/muOS-retro-a78bfa?style=flat-square&labelColor=0f0c29" />
       <img src="https://img.shields.io/badge/status-new-8bf5a8?style=flat-square&labelColor=0f0c29" />
+      <br/><br/>
+      <a href="https://github.com/CryptoCaleb/muos-battery-monitor"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/muos-battery-monitor/main/docs/overview.png" alt="Battery Monitor overview screen" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🫧 &nbsp;bubl</h3>
@@ -104,11 +106,16 @@ const caleb = {
       <p>A muOS app for retro handhelds that turns your game collections into cover-art collages.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/muOS-retro-a78bfa?style=flat-square&labelColor=0f0c29" />
+      <br/><br/>
+      <a href="https://github.com/CryptoCaleb/muos-collection-art"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/muos-collection-art/main/docs/menu.png" alt="Collection Art menu screen" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌌 &nbsp;<a href="https://github.com/CryptoCaleb/aether-labs">aether-labs</a></h3>
-      <p>A toolkit for testing aether-based physics simulations.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <p>A desktop physics lab that tests whether reality could be one continuous medium: vortex rings, acoustic black holes, emergent relativity and quantum superfluids, each checked against real theory.</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/egui-desktop-a78bfa?style=flat-square&labelColor=0f0c29" />
+      <br/><br/>
+      <a href="https://github.com/CryptoCaleb/aether-labs"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/aether-labs/main/docs/images/acoustic-black-hole.png" alt="Aether Labs acoustic black hole experiment" /></a>
     </td>
   </tr>
   <tr>
@@ -124,6 +131,42 @@ const caleb = {
     </td>
   </tr>
 </table>
+
+<!-- ════════════════════════════════  SCREENSHOTS  ════════════════════════════════ -->
+
+<div align="center">
+
+## 📸 &nbsp;App Screenshots
+
+<a href="https://github.com/CryptoCaleb/muos-battery-monitor"><img width="92%" src="https://raw.githubusercontent.com/CryptoCaleb/muos-battery-monitor/main/docs/on-device.png" alt="Battery Monitor running on a retro handheld" /></a>
+<br/><sub><b>Battery Monitor</b>: overview, history and health screens on a muOS handheld</sub>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptoCaleb/muos-collection-art"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/muos-collection-art/main/docs/done.png" alt="Collection Art finished generating covers" /></a>
+      <br/><sub><b>Collection Art</b>: cover collages generated for every collection</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptoCaleb/muos-battery-monitor"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/muos-battery-monitor/main/docs/health.png" alt="Battery Monitor health screen" /></a>
+      <br/><sub><b>Battery Monitor</b>: battery health and discharge curve</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptoCaleb/aether-labs"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/aether-labs/main/docs/images/superfluid-lattice.png" alt="Aether Labs superfluid vortex lattice" /></a>
+      <br/><sub><b>Aether Labs</b>: quantised vortex lattice in a spinning superfluid</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CryptoCaleb/aether-labs"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/aether-labs/main/docs/images/scorecard.png" alt="Aether Labs hypothesis scorecard" /></a>
+      <br/><sub><b>Aether Labs</b>: hypothesis scorecard, physics checked against theory</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <img width="100%" src="./assets/divider.svg" />
 
