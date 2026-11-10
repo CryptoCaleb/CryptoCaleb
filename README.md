@@ -87,35 +87,35 @@ const caleb = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔋 &nbsp;<a href="https://github.com/CryptoCaleb/muos-battery-monitor">muos-battery-monitor</a></h3>
+      <p>A muOS app for retro handhelds that tracks your battery: drain and recharge rates, charge times, estimated time left, plus graphs and analytics for checking battery health.</p>
+      <img src="https://img.shields.io/badge/muOS-retro-a78bfa?style=flat-square&labelColor=0f0c29" />
+      <img src="https://img.shields.io/badge/status-new-8bf5a8?style=flat-square&labelColor=0f0c29" />
+    </td>
+    <td width="50%" valign="top">
       <h3>🫧 &nbsp;bubl</h3>
       <p>My current main project, in active development. Stay tuned.</p>
       <img src="https://img.shields.io/badge/status-in%20progress-ff4d8d?style=flat-square&labelColor=0f0c29" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎮 &nbsp;<a href="https://github.com/CryptoCaleb/muos-collection-art">muos-collection-art</a></h3>
       <p>A muOS app for retro handhelds that turns your game collections into cover-art collages.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/muOS-retro-a78bfa?style=flat-square&labelColor=0f0c29" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌌 &nbsp;<a href="https://github.com/CryptoCaleb/aether-labs">aether-labs</a></h3>
       <p>A toolkit for testing aether-based physics simulations.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>😈 &nbsp;<a href="https://github.com/CryptoCaleb/cryptodemonz">cryptodemonz</a></h3>
       <p>Crypto Demonz, a web3 project.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔋 &nbsp;Battery Monitor</h3>
-      <p>A muOS app for retro handhelds that tracks your battery: drain and recharge rates, charge times, estimated time left, plus graphs and analytics for checking battery health.</p>
-      <img src="https://img.shields.io/badge/muOS-retro-a78bfa?style=flat-square&labelColor=0f0c29" />
-      <img src="https://img.shields.io/badge/status-new-8bf5a8?style=flat-square&labelColor=0f0c29" />
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ &nbsp;<a href="https://github.com/CryptoCaleb/rpcpp-moded">rpcpp-moded</a></h3>
