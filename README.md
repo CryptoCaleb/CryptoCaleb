@@ -187,12 +187,12 @@ const caleb = {
 
 ## 📊 &nbsp;GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CryptoCaleb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0f0c29&title_color=a78bfa&icon_color=ff4d8d" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoCaleb&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0f0c29&title_color=a78bfa" />
+<img height="180" src="./assets/stats.svg" alt="GitHub stats" />
+<img height="180" src="./assets/langs.svg" alt="Top languages" />
 
 <br/>
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=CryptoCaleb&bg_color=0f0c29&color=a78bfa&line=ff4d8d&point=8bf5a8&area=true&area_color=302b63&hide_border=true&radius=14" />
+<img width="88%" src="./assets/activity.svg" alt="Contribution activity" />
 
 <br/><br/>
 
