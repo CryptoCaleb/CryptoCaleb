@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/github/followers/CryptoCaleb?label=followers&style=for-the-badge&color=a78bfa&labelColor=0f0c29" />
 <img src="https://komarev.com/ghpvc/?username=CryptoCaleb&style=for-the-badge&color=a78bfa&label=profile+views" />
-<img src="https://img.shields.io/badge/status-building%20bubl-ff4d8d?style=for-the-badge&labelColor=0f0c29" />
+<a href="https://bublio.social"><img src="https://img.shields.io/badge/status-building%20bubl-ff4d8d?style=for-the-badge&labelColor=0f0c29" /></a>
 
 </div>
 
@@ -95,11 +95,12 @@ const caleb = {
       <a href="https://github.com/CryptoCaleb/muos-battery-monitor"><img width="100%" src="https://raw.githubusercontent.com/CryptoCaleb/muos-battery-monitor/main/docs/overview.png" alt="Battery Monitor overview screen" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🫧 &nbsp;bubl</h3>
+      <h3>🫧 &nbsp;<a href="https://bublio.social">bubl</a></h3>
       <p>My current main project, in active development: a world map where every post is a Bubl. Search a topic and only the matching Bubls light up. Stay tuned.</p>
       <img src="https://img.shields.io/badge/status-in%20progress-ff4d8d?style=flat-square&labelColor=0f0c29" />
+      <a href="https://bublio.social"><img src="https://img.shields.io/badge/visit-bublio.social-a78bfa?style=flat-square&labelColor=0f0c29" alt="Visit bublio.social" /></a>
       <br/><br/>
-      <img width="100%" src="./assets/bubl-preview.jpg" alt="Bubl: a world map where every post is a Bubl" />
+      <a href="https://bublio.social"><img width="100%" src="./assets/bubl-preview.jpg" alt="Bubl: a world map where every post is a Bubl" /></a>
     </td>
   </tr>
   <tr>
