@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="215" viewBox="0 0 300 215">
+<style>
+  .fade{opacity:0;animation:in .6s ease-out forwards}
+  @keyframes in{to{opacity:1}}
+  .grow{transform-origin:left;transform:scaleX(0);animation:g 1s ease-out forwards}
+  @keyframes g{to{transform:scaleX(1)}}
+  .draw{stroke-dasharray:4000;stroke-dashoffset:4000;animation:d 2.2s ease-out forwards}
+  @keyframes d{to{stroke-dashoffset:0}}
+</style>
+<rect x="0.5" y="0.5" width="299" height="214" rx="14" fill="#0f0c29" stroke="#302b63"/>
+<text x="25" y="36" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="18" font-weight="700" fill="#a78bfa">Most Used Languages</text>
+<clipPath id="bar"><rect x="25" y="55" width="250" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+<rect class="grow" style="animation-delay:0ms" x="25.0" y="55" width="116.9" height="10" fill="#3178c6"/>
+<rect class="grow" style="animation-delay:80ms" x="141.9" y="55" width="60.8" height="10" fill="#3572A5"/>
+<rect class="grow" style="animation-delay:160ms" x="202.8" y="55" width="51.9" height="10" fill="#f1e05a"/>
+<rect class="grow" style="animation-delay:240ms" x="254.6" y="55" width="13.2" height="10" fill="#663399"/>
+<rect class="grow" style="animation-delay:320ms" x="267.9" y="55" width="5.6" height="10" fill="#e34c26"/>
+<rect class="grow" style="animation-delay:400ms" x="273.5" y="55" width="1.5" height="10" fill="#89e051"/>
+</g>
+<g class="fade" style="animation-delay:300ms"><circle cx="30" cy="91" r="5" fill="#3178c6"/><text x="41" y="95" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="12" fill="#e6e1ff">TypeScript <tspan fill="#8a84b8">46.8%</tspan></text></g>
+<g class="fade" style="animation-delay:400ms"><circle cx="160" cy="91" r="5" fill="#3572A5"/><text x="171" y="95" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="12" fill="#e6e1ff">Python <tspan fill="#8a84b8">24.3%</tspan></text></g>
+<g class="fade" style="animation-delay:500ms"><circle cx="30" cy="117" r="5" fill="#f1e05a"/><text x="41" y="121" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="12" fill="#e6e1ff">JavaScript <tspan fill="#8a84b8">20.7%</tspan></text></g>
+<g class="fade" style="animation-delay:600ms"><circle cx="160" cy="117" r="5" fill="#663399"/><text x="171" y="121" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="12" fill="#e6e1ff">CSS <tspan fill="#8a84b8">5.3%</tspan></text></g>
+<g class="fade" style="animation-delay:700ms"><circle cx="30" cy="143" r="5" fill="#e34c26"/><text x="41" y="147" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="12" fill="#e6e1ff">HTML <tspan fill="#8a84b8">2.3%</tspan></text></g>
+<g class="fade" style="animation-delay:800ms"><circle cx="160" cy="143" r="5" fill="#89e051"/><text x="171" y="147" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="12" fill="#e6e1ff">Shell <tspan fill="#8a84b8">0.6%</tspan></text></g>
+</svg>
