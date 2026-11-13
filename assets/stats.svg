@@ -17,6 +17,6 @@
 <g class="fade" style="animation-delay:600ms"><circle cx="31" cy="185" r="4" fill="#8bf5a8"/><text x="48" y="190" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="14" fill="#e6e1ff">Followers</text><text x="290" y="190" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="14" font-weight="700" fill="#e6e1ff" text-anchor="end">2</text></g>
 <circle cx="385" cy="115" r="48" fill="none" stroke="#302b63" stroke-width="7"/>
 <circle class="draw" cx="385" cy="115" r="48" fill="none" stroke="#a78bfa" stroke-width="7" stroke-linecap="round" transform="rotate(-90 385 115)"/>
-<text x="385" y="117" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="22" font-weight="700" fill="#8bf5a8" text-anchor="middle">759</text>
+<text x="385" y="117" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="22" font-weight="700" fill="#8bf5a8" text-anchor="middle">824</text>
 <text x="385" y="135" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif" font-size="10" fill="#8a84b8" text-anchor="middle">contributions</text>
 </svg>
